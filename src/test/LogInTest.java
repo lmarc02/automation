@@ -1,4 +1,5 @@
 
+import main.pages.BasePage;
 import main.pages.LogInPage;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
